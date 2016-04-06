@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+java -jar OpenFDA_Parser-0.1.jar C:/Users/Niranjan/Documents/Spring2016/INDStudy/RA/FDA_Drug_Adverse_Events_Dataset/jsonfiles/ C:/Users/Niranjan/Documents/Spring2016/INDStudy/RA/FDA_Drug_Adverse_Events_Dataset/csvfiles/
